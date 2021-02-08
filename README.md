@@ -1,2 +1,2 @@
 # Midterm-JDBCE
-Midterm assignment.
+Midterm assignment. 
